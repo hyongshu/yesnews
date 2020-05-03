@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yesnews/static/css/main.23e67b88.chunk.css",
+    "main.js": "/yesnews/static/js/main.3086a162.chunk.js",
+    "main.js.map": "/yesnews/static/js/main.3086a162.chunk.js.map",
+    "runtime-main.js": "/yesnews/static/js/runtime-main.d9a10708.js",
+    "runtime-main.js.map": "/yesnews/static/js/runtime-main.d9a10708.js.map",
+    "static/js/2.8cbe562c.chunk.js": "/yesnews/static/js/2.8cbe562c.chunk.js",
+    "static/js/2.8cbe562c.chunk.js.map": "/yesnews/static/js/2.8cbe562c.chunk.js.map",
+    "index.html": "/yesnews/index.html",
+    "precache-manifest.055987d41d0c3657ffe8dfaff7fef8bd.js": "/yesnews/precache-manifest.055987d41d0c3657ffe8dfaff7fef8bd.js",
+    "service-worker.js": "/yesnews/service-worker.js",
+    "static/css/main.23e67b88.chunk.css.map": "/yesnews/static/css/main.23e67b88.chunk.css.map",
+    "static/js/2.8cbe562c.chunk.js.LICENSE.txt": "/yesnews/static/js/2.8cbe562c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9a10708.js",
+    "static/js/2.8cbe562c.chunk.js",
+    "static/css/main.23e67b88.chunk.css",
+    "static/js/main.3086a162.chunk.js"
+  ]
+}
